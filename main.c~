@@ -24,6 +24,8 @@ FILE *fp;
     arriba = 1;
     izquierda = 2;
     abajo = 1;
+// nueva version de este programa
+
     while (contador < limite + 1){
     //movimiento derecha
             for (int i = 0; i < derecha; i++) {

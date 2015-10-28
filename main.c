@@ -20,10 +20,10 @@ FILE *fp;
     y = tam / 2;
     int arriba, abajo, izquierda, derecha;
     int contador = 1;
-    derecha = 2;
-    arriba = 1;
-    izquierda = 2;
-    abajo = 1;
+    //derecha = 2;
+    //arriba = 1;
+    //izquierda = 2;
+    //abajo = 1;
 // nueva version de este programa
 
     while (contador < limite + 1){
