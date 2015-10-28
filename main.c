@@ -20,7 +20,7 @@ FILE *fp;
     y = tam / 2;
     int arriba, abajo, izquierda, derecha;
     int contador = 1;
-	//comentario gay    
+	//comentario gay asdfasdf    
 //derecha = 2;
     //arriba = 1;
     //izquierda = 2;
